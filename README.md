@@ -1,4 +1,4 @@
-![header](https://cdn.pixabay.com/photo/2022/03/08/18/30/bird-7056310_1280.png){: width="100" height="100"}
+![header](https://cdn.pixabay.com/photo/2022/03/08/18/30/bird-7056310_1280.png)
 
 ### Hi there 👋
 
