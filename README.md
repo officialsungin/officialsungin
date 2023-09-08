@@ -8,7 +8,7 @@ I am majoring in [Computer Science and Engineering](https://computer.seoultech.a
 
 But I don't have much knowledge.
 
-So please give me a lot of answers!!
+So please give me a lot of answers!!!
 
 
 My field of interest is
